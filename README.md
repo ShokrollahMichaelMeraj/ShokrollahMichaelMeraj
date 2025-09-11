@@ -18,6 +18,16 @@ Greetings and "Hello World!" I'm Michael, a passionate developer, designer, and 
 
 ### Featured Projects
 
+# **C++ Singly Linked List**
+- **Description**: A robust, memory-safe singly linked list implementation in C++ with comprehensive functionality and a testing suite.
+- **Key Features**:
+  - Memory-safe implementation with proper destructors
+  - Complete CRUD operations (insert, delete, replace,...)
+  - Comprehensive testing framework
+  - Clean, extensible architecture
+- **Tech**: C++17, Make, Assertions-based tests
+- **Repo**: [LinkedList Repository](https://github.com/ShokrollahMichaelMeraj/linked-list)
+
 # **Swift PO (Purchase Orders) for FortisBC**
    - **Description**: A prototype designed to automate Purchase Order Workflows for FortisBC, enhancing operational efficiency and reducing manual processing.
    - **Technologies**: HTML, CSS, JavaScript, TypeScript, PostgreSQL, Spring Boot, Render.
