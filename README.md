@@ -50,11 +50,12 @@ I'm Michael, a passionate developer, designer, and aspiring entrepreneur focused
 
 ## Skills
 
-- **Programming Languages:** HTML, CSS, JavaScript, TypeScript, C, C++
-- **Frameworks/Libraries:** Spring Boot, Figma
+- **Programming Languages:** HTML, CSS, JavaScript, TypeScript, C, C++m Python
+- **Frameworks/Libraries:** Spring Boot, Figma, Pandas, 
 - **Tools:** Git, Docker, Render, Version Control, LeetCode
 - **Databases:** PostgreSQL
-- **Other:** Data Structures, Algorithms, Frontend/Backend Development, Agile/Scrum, English & Farsi (high proficiency)
+- **Technical skills:** Data Structures, Algorithms, Frontend/Backend Development, Agile/Scrum software development, Requirement engineering
+- **Other:** English & Farsi (high proficiency)
 
 ## Contact
 
