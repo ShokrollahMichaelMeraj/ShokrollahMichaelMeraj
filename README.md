@@ -35,16 +35,7 @@ I'm Michael, a passionate developer, designer, and aspiring entrepreneur focused
   - Built full preprocessing pipeline with selective StandardScaler and one-hot encoding
   - Deployed FastAPI backend integrated with Netlify-hosted frontend for real-time predictions
   - Achieved 0.28s MAE and R² of 0.687
-- [GitHub Repository](#)
 
-#### [Student Database](#)
-- **Description:** Web application for managing student records (store, update, delete).
-- **Technologies:** Docker, Spring Boot, PostgreSQL, HTML, CSS, JavaScript, TypeScript, Render
-- **Highlights:**
-  - Robust data management, containerized deployment
-  - PostgreSQL-backed CRUD operations
-  - User-friendly front-end design
-- [GitHub Repository](#)
 
 > Explore more projects in my [repository list](https://github.com/ShokrollahMichaelMeraj?tab=repositories).
 
