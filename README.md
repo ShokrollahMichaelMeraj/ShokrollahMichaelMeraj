@@ -18,7 +18,7 @@ I'm Michael, a passionate developer, designer, and aspiring entrepreneur focused
 
 ### Featured Projects
 
-#### [C++ Singly Linked List](https://github.com/ShokrollahMichaelMeraj/LinkedList)
+#### [C++ Singly Linked List](#https://github.com/ShokrollahMichaelMeraj/LinkedList)
 - **Description:** Robust, memory-safe singly linked list implementation in C++ with comprehensive functionality and a testing suite.
 - **Key Features:**
   - Memory-safe implementation with proper destructors
@@ -27,14 +27,14 @@ I'm Michael, a passionate developer, designer, and aspiring entrepreneur focused
   - Clean, extensible architecture
 - **Tech:** C++17, Make, Assertions-based tests
 
-#### [Swift PO (Purchase Orders) for FortisBC](#)
-- **Description:** Prototype to automate Purchase Order workflows for FortisBC, enhancing efficiency and reducing manual processing.
-- **Technologies:** HTML, CSS, JavaScript, TypeScript, PostgreSQL, Spring Boot, Render
+#### [Supercar Acceleration Prediction](https://github.com/ShokrollahMichaelMeraj/Kaggle_dataset_Supercar_performance_prediction)
+- **Description:** End-to-end neural network system predicting 0–100 km/h acceleration times for 5,000+ sports cars, deployed with a real-time API and interactive frontend.
+- **Technologies:** Python, TensorFlow, Scikit-learn, Pandas, FastAPI, Figma Make, Netlify, Kaggle
 - **Highlights:**
-  - Scrum Master for requirements engineering and gathering
-  - Designed, developed, and configured the prototype
-  - Integrated workflow automation for purchase order management
-  - Hosted on Render for deployment and testing
+  - Engineered power-to-weight ratio feature with -0.77 correlation, reducing prediction error by 81% over baseline
+  - Built full preprocessing pipeline with selective StandardScaler and one-hot encoding
+  - Deployed FastAPI backend integrated with Netlify-hosted frontend for real-time predictions
+  - Achieved 0.28s MAE and R² of 0.687
 - [GitHub Repository](#)
 
 #### [Student Database](#)
